@@ -1,0 +1,10 @@
+password
+secret
+12345
+123456
+supersecret
+letmein
+admin
+root
+passw0rd
+qwerty
